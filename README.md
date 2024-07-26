@@ -13,9 +13,8 @@ Insights to guide business decisions
 	- [Question Set 1 - Easy](#question-set-1---easy)
 	- [Question Set 2 - Moderate](#question-set-2---moderate)
 	- [Question Set 3 - Advanced](#question-set-3---advanced)
-- [Project Structure](#project-structure)
-- [Usage](#usage)
-- [Contributing](#contributing)
+- [Conclusion](#Conclusion)
+
 
 ## Introduction
 
